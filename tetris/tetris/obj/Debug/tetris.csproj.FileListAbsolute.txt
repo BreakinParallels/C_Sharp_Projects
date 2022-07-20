@@ -1,0 +1,7 @@
+C:\Users\shodg\source\repos\tetris\tetris\obj\Debug\tetris.csprojAssemblyReference.cache
+C:\Users\shodg\source\repos\tetris\tetris\obj\Debug\MainWindow.g.cs
+C:\Users\shodg\source\repos\tetris\tetris\obj\Debug\App.g.cs
+C:\Users\shodg\source\repos\tetris\tetris\obj\Debug\tetris_MarkupCompile.cache
+C:\Users\shodg\source\repos\tetris\tetris\obj\Debug\tetris_MarkupCompile.lref
+C:\Users\shodg\source\repos\tetris\tetris\obj\Debug\tetris.csproj.AssemblyReference.cache
+C:\Users\shodg\source\repos\tetris\tetris\obj\Debug\tetris.csproj.SuggestedBindingRedirects.cache
