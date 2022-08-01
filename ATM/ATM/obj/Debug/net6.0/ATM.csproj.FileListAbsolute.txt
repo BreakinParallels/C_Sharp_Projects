@@ -1,0 +1,5 @@
+C:\Users\shodg\OneDrive\Documents\GitHub\C_Sharp_Projects\ATM\ATM\obj\Debug\net6.0\ATM.csproj.AssemblyReference.cache
+C:\Users\shodg\OneDrive\Documents\GitHub\C_Sharp_Projects\ATM\ATM\obj\Debug\net6.0\ATM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shodg\OneDrive\Documents\GitHub\C_Sharp_Projects\ATM\ATM\obj\Debug\net6.0\ATM.AssemblyInfoInputs.cache
+C:\Users\shodg\OneDrive\Documents\GitHub\C_Sharp_Projects\ATM\ATM\obj\Debug\net6.0\ATM.AssemblyInfo.cs
+C:\Users\shodg\OneDrive\Documents\GitHub\C_Sharp_Projects\ATM\ATM\obj\Debug\net6.0\ATM.csproj.CoreCompileInputs.cache
